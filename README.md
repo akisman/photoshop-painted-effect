@@ -1,6 +1,6 @@
 # Painted Effect
 
-`Painted Effect` is a Photoshop script emulating applying a painted-like effect on images, emulating digital painted photos.
+`Painted Effect` is a Photoshop script applying a painted-like effect on images, emulating digital painted photos.
 
 ![Painted Effect Example](images/painted-effect-sample.png)
 
