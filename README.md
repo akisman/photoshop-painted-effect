@@ -2,6 +2,8 @@
 
 `Painted Effect` is a Photoshop script emulating applying a painted-like effect on images, emulating digital painted photos.
 
+![Painted Effect Example](images/painted-effect-sample.png)
+
 ## Installation
 
 * Download and extract `Painted Effect`
@@ -22,6 +24,8 @@ To get the best results, use `Manual` on high resolution photos. `Auto` is usefu
 ## Credits
 
 `Painted Effect` filter usage is based on the [Realistic Painted Effect Tutorial](http://blog.spoongraphics.co.uk/tutorials/how-to-create-a-realistic-painted-effect-in-photoshop) by [Chris Spooner](http://blog.spoongraphics.co.uk/)
+
+Example photo by [beautiful-horses](http://beautiful-horses.deviantart.com)
 
 ## License
 Copyright © 2015 Akis Manolis https://github.com/akisman
