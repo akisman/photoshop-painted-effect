@@ -21,6 +21,10 @@
 
 To get the best results, use `Manual` on high resolution photos. `Auto` is useful for a quick preview, and for running the script through multiple layers(animations etc). In that case, it's best to first use `Manual` on one of the layers and note down the filter values best suited to you.
 
+## Screenshot
+
+![Painted Effect Script Screenshot](images/painted-effect-screenshot.png)
+
 ## Credits
 
 `Painted Effect` filter usage is based on the [Realistic Painted Effect Tutorial](http://blog.spoongraphics.co.uk/tutorials/how-to-create-a-realistic-painted-effect-in-photoshop) by [Chris Spooner](http://blog.spoongraphics.co.uk/)
