@@ -212,7 +212,7 @@ function options() {
     };  
     
     // Buttons
-    win.buttonsPanel.allLayersCheckbox = win.buttonsPanel.add('checkbox', [15, 15, 15, 15], 'All layers');
+    win.buttonsPanel.allLayersCheckbox = win.buttonsPanel.add('checkbox', [15, 15, 15, 15], 'All Layers');
     win.buttonsPanel.autoButton = win.buttonsPanel.add('button', [15,40,105,55], 'Auto');
     win.buttonsPanel.manualButton = win.buttonsPanel.add('button', [120, 40, 210, 55], 'Manual');
     win.buttonsPanel.exitButton = win.buttonsPanel.add('button', [225, 40, 315, 55], 'Exit');
