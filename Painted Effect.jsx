@@ -127,7 +127,7 @@ function options() {
     win.buttonsPanel = win.add('panel', [25, 355, 360, 440], undefined);
     
     // Description
-    win.descriptionPanel.titleSt = win.descriptionPanel.add('statictext', [15, 15, 320, 135],'Use Auto to run the script with the values entered in the \"Filter Values\" fields, or Manual to get the dialog box for each filter applied.\n\nBy selecting \"All Layers\" the effect will be applied on every layer of the document.',{multiline:true});
+    win.descriptionPanel.titleSt = win.descriptionPanel.add('statictext', [15, 15, 320, 135],'Use Auto to run the script with the values entered in the \"Filter Values\" fields, or Manual to go through each filter\'s details during execution.\n\nSelect \"All Layers\" for the effect to be applied on every layer of the document.',{multiline:true});
     
     // Filters options - For every field, check if content is numeric on change, and enable or disable the Auto button
     win.settingsPanel.levelsBlack_Label = win.settingsPanel.add('statictext', [15, 15, 175, 30], 'Black Level:');
