@@ -19,7 +19,7 @@
 * `Auto` executes the script without interruption using the values entered in the filter fields.
 * `Manual` prompts the user with each filter's dialog
 
-To get the best results, use `Manual` on high resolution photos. `Auto` is useful for a quick preview, and for running the script through multiple layers(animations etc). In that case, it's best to first use `Manual` on one of the layers and note down the filter values best suited to you.
+To get the best results, use the `Manual` option with high resolution photos. `Auto` is useful for quick previews, and for running the script through multiple layers(animations etc). In that case, it is best to first run the script with `Manual` mode on one layer to get the filter values best suited to you.
 
 ## Screenshot
 
